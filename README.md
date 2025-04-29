@@ -130,7 +130,7 @@ METHOD_2_LGBMCLASSIFIER/
 
 For a visual overview, refer to the [System Workflow Diagram](https://github.com/Mobeen-01/diabetes-prediction-system/blob/main/outputs/System%20Workflow%20Diagram.png) that outlines the entire pipeline.
 
-```
+---
 
 ## 📈 Final Model Performance (LightGBM + AllKNN)
 
