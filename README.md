@@ -124,14 +124,11 @@ METHOD_2_LGBMCLASSIFIER/
 ├── Report.pdf
 ```
 
-
 ## 🏗 System Architecture
 
-📌 The project follows a clear, modular workflow from data preprocessing to model deployment, as illustrated below:
+📌 The project adopts a structured and modular approach, progressing from data preprocessing to model training and final deployment. This architecture ensures maintainability, scalability, and clarity throughout the development lifecycle.
 
-![System Workflow Diagram](https://github.com/Mobeen-01/diabetes-prediction-system/blob/main/outputs/System%20Workflow%20Diagram.png)
-
-For a detailed overview of the system architecture, check out the [System Workflow Diagram](https://github.com/Mobeen-01/diabetes-prediction-system/blob/main/outputs/System%20Workflow%20Diagram.png).
+For a visual overview, refer to the [System Workflow Diagram](https://github.com/Mobeen-01/diabetes-prediction-system/blob/main/outputs/System%20Workflow%20Diagram.png) that outlines the entire pipeline.
 
 ---
 
