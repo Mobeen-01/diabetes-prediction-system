@@ -1,4 +1,4 @@
-# diabetes-prediction-system# 🩺 Diabetes Prediction System using Machine Learning
+🩺 Diabetes Prediction System using Machine Learning
 
 🎯 An AI-powered tool that predicts diabetes based on medical data with **92.6% accuracy**, using **LightGBM + AllKNN** on the **Pima Indian Diabetes dataset**, integrated into a fully **offline desktop app** via **Tkinter GUI**.
 
