@@ -2,6 +2,9 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=flat&logo=python)](https://www.python.org)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![GUI](https://img.shields.io/badge/GUI-Tkinter%20%2B%20TTKBootstrap-yellow)](https://docs.python.org/3/library/tkinter.html)
+[![ML Models](https://img.shields.io/badge/ML%20Models-LightGBM%20%7C%20AllKNN-brightgreen)](https://lightgbm.readthedocs.io/)
+[![Dataset](https://img.shields.io/badge/Dataset-PIMA%20Indians%20Diabetes-orange)](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
 ## Introduction
 
