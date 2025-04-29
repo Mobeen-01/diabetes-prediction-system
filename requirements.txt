@@ -1,0 +1,23 @@
+# Install Python version 3.10 or lower, as required for TensorFlow compatibility.
+
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+imbalanced-learn
+prettytable
+xgboost
+lightgbm
+tensorflow
+keras
+imbalanced-learn
+ttkbootstrap
+joblib
+xgboost
+lightgbm
+seaborn
+
+# pip install imbalanced-learn prettytable xgboost lightgbm ttkbootstrap pandas joblib imbalanced-learn matplotlib xgboost lightgbm seaborn
+
+
